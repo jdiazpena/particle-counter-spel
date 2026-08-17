@@ -145,7 +145,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/33a7df9e-3c3a-4e96-92e7-9b8e8b21078e")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -306,7 +306,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "0"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "2f71d555-262b-4f49-869e-94cd4fd59841")
@@ -344,7 +344,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9c90592d-0760-45b8-8ad5-11d84aa47f22")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -543,7 +543,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/964e04b3-3379-40aa-b300-d8908b85aef7")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -742,7 +742,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/70e28b14-ff50-4414-a70b-deb76a1d9b01")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 1.56)
@@ -1037,7 +1037,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/1b782273-75b1-4246-913d-8e8f1da3227b")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
@@ -1236,7 +1236,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/c819f014-44a4-4cbf-a284-bd0c4063f397")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -1397,7 +1397,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7p"
+		(property "Value" "100p"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "36998051-7ea7-487c-99bc-cdca5a3dc5dc")
@@ -1435,7 +1435,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/d4fc5a33-d585-42bd-ad45-47611727636a")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -1634,7 +1634,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/4acaac61-456a-4a3e-9f9a-3204021968af")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 -1.38)
@@ -1877,7 +1877,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/c89bbafa-2d9d-4fb0-b3c8-26019b4773e0")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -2076,7 +2076,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/76579383-b53d-47a0-8779-d88c0ffaaebe")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 -1.38)
@@ -2320,7 +2320,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/84d57ba0-f98a-4c73-b079-7b6ccde6e3ab")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 -1.38)
@@ -2596,7 +2596,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/db130403-1e8e-4cb4-9094-ecb3d8c5c429")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -2757,7 +2757,7 @@
 				)
 			)
 		)
-		(property "Value" "5K"
+		(property "Value" "3.3k"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "3598963b-c4ce-4fab-a7a6-f4255f1b93b1")
@@ -2795,7 +2795,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/1441e940-4aeb-425f-b38e-c07ac18c121f")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -2995,7 +2995,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/c12bc958-e72b-49ae-a20c-e323cbb08229")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.97 3.425)
@@ -3386,7 +3386,7 @@
 			(net 2 "GND")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "d3ceac1f-f7dd-4e0f-9561-359e95bf8f39")
+			(uuid "9b825148-c8f8-4489-a0a4-30cac5da88da")
 		)
 		(pad "1" smd roundrect
 			(at 4.855 2.395 270)
@@ -3396,7 +3396,7 @@
 			(net 2 "GND")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "d3ceac1f-f7dd-4e0f-9561-359e95bf8f39")
+			(uuid "d1c7f0a3-4595-4b2e-9a38-e60aa032f07d")
 		)
 		(pad "2" smd roundrect
 			(at -0.75 -2.795 270)
@@ -3458,7 +3458,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "15k"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "1234d6a1-05f8-4d7a-ae6a-be173967780b")
@@ -3496,7 +3496,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c64a7880-8435-4f55-80b6-7cb1982b31ee")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -3657,7 +3657,7 @@
 				)
 			)
 		)
-		(property "Value" "10G"
+		(property "Value" "10k"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "49539f40-b510-4ce5-ac6b-f9d1e406f9c8")
@@ -3695,7 +3695,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/6126e518-f48e-40ee-bd9e-3abccb54db8d")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -3894,7 +3894,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/efb5535c-facb-4fa2-a3a0-0ca6e46af679")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 4.985 -2.895)
@@ -4285,7 +4285,7 @@
 			(net 2 "GND")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "a9c79395-ae03-4ef4-bcb0-e2538dbca08b")
+			(uuid "69ebe34e-a4d0-45e2-93e7-39e203728075")
 		)
 		(pad "1" smd roundrect
 			(at 4.855 2.395 90)
@@ -4295,7 +4295,7 @@
 			(net 2 "GND")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "a9c79395-ae03-4ef4-bcb0-e2538dbca08b")
+			(uuid "174c8635-d9a7-44e7-946c-e6d3481ea5b5")
 		)
 		(pad "2" smd roundrect
 			(at -0.75 -2.795 90)
@@ -4395,7 +4395,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/90f26e70-af5e-42a5-a67c-b21f20d96ad2")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 -1.38)
@@ -4638,7 +4638,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d041ea02-ddb7-4806-93db-4aa2d82f6eda")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -4799,7 +4799,7 @@
 				)
 			)
 		)
-		(property "Value" "100K"
+		(property "Value" "INF"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "bfcf0662-427b-4a25-868d-18715ad7a1d8")
@@ -4837,7 +4837,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/22ac5f1f-f561-4160-a870-e68adb83711b")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -5036,7 +5036,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/6734e1b1-d4d5-41e1-a072-c3f40cd47deb")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -5197,7 +5197,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2p"
+		(property "Value" "1p"
 			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "c6c79efd-2bd0-4562-9f1e-b7dfddeb4928")
@@ -5235,7 +5235,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/dd2e5fd4-460f-43b8-a8bc-78923be24911")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -5434,7 +5434,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/084de84a-242f-4520-af92-e989e416557d")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -5633,7 +5633,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/d745de59-ae2f-43d6-9103-893ce82986a3")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
@@ -5794,7 +5794,7 @@
 				)
 			)
 		)
-		(property "Value" "OPA1678IDR"
+		(property "Value" "OPA2354"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -5923,7 +5923,7 @@
 		)
 		(path "/62077f40-ee29-44fc-acd7-f3639ec74fb7")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.475 -2.58)
@@ -6216,7 +6216,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/e9ddf343-63c7-4f07-8ea2-8bf17e0044a8")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 -1.38)
@@ -6404,7 +6404,7 @@
 			)
 		)
 	)
-	(footprint "SamacSys_Parts:S1223-01"
+	(footprint "Mouser Lib:S1223-01"
 		(layer "F.Cu")
 		(uuid "fe9abe40-3876-4d86-94be-728d6293c524")
 		(at 149.16 98.46)
@@ -6462,7 +6462,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9feef132-8fe8-49f6-aaab-12f5bfe62949")
+			(uuid "93a138fc-a7a6-4e33-83cc-85aee74ce323")
 			(effects
 				(font
 					(size 1 1)
@@ -6475,7 +6475,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "71bfaad3-7d2f-4e45-b1e0-372e1cc6be52")
+			(uuid "09e9e32b-a5cd-43b8-ac1f-67f28d1258ff")
 			(effects
 				(font
 					(size 1 1)
@@ -6488,7 +6488,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2acba67b-9628-4239-ba47-fd8bb3b3c40b")
+			(uuid "11345bfd-5d49-4445-8cc2-7aa4656b9365")
 			(effects
 				(font
 					(size 1 1)
@@ -6501,7 +6501,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e8ea658a-d201-43ba-a351-623802499238")
+			(uuid "0ab1b82f-8ac8-4a5e-b610-18790978a6f3")
 			(effects
 				(font
 					(size 1 1)
@@ -6514,7 +6514,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c32b1ce7-ba39-4e99-bbad-875aa59dce52")
+			(uuid "45d8c802-5cb0-4415-aa14-105d38a49bd1")
 			(effects
 				(font
 					(size 1 1)
@@ -6527,7 +6527,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ef887463-d718-4175-9e0b-bfccda04b4da")
+			(uuid "db8c0f99-8d4a-46c9-ac8c-cd38abfa3983")
 			(effects
 				(font
 					(size 1 1)
@@ -6540,7 +6540,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "982d1e2e-ea89-4706-8d65-5fd1697e6bf3")
+			(uuid "49dd70a7-21e5-4689-933d-57ca10654893")
 			(effects
 				(font
 					(size 1 1)
@@ -6550,7 +6550,7 @@
 		)
 		(path "/63ed50e9-5a6e-486b-982a-1c2a9f4b15e9")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 2.433 -3.873)
@@ -6560,7 +6560,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6fd24c04-7599-453e-8e9c-859a59967c3b")
+			(uuid "5ec8a308-8d98-476d-b8c3-339b8355d7c9")
 		)
 		(fp_line
 			(start 3.6125 2.8155)
@@ -6570,7 +6570,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "70f3db5e-1863-4f26-b16d-ed5093f60ff8")
+			(uuid "2185f93f-8174-410c-80d1-efec53400e9a")
 		)
 		(fp_line
 			(start 3.7475 4.1245)
@@ -6580,7 +6580,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d26e2664-25d1-4203-9ba1-a8af830f5859")
+			(uuid "5b822793-af9a-4ffa-9400-0ff3a00b9f2d")
 		)
 		(fp_line
 			(start 4.2925 3.4955)
@@ -6590,7 +6590,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f10fd56a-7112-4f7e-9650-b30058434ce7")
+			(uuid "b9334068-b9f2-4fb1-b443-cee679f9ad6a")
 		)
 		(fp_circle
 			(center 0 0)
@@ -6601,7 +6601,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "c7428332-872b-4f74-a21c-31180f34aeb9")
+			(uuid "40e52cf1-f15f-40e1-ae84-7580f363b132")
 		)
 		(fp_circle
 			(center 5.76 -0.003)
@@ -6612,7 +6612,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "52c81c26-af2e-429f-8a6d-072a2638fef6")
+			(uuid "b7ff47cc-402e-4001-a09c-309eb1af5f3c")
 		)
 		(fp_line
 			(start 3.0895 3.4665)
@@ -6622,7 +6622,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "3528929e-1133-4420-b105-a5c4d66e20da")
+			(uuid "a9a141b0-ec50-4481-883e-786221a9e721")
 		)
 		(fp_line
 			(start 3.7475 4.1245)
@@ -6632,7 +6632,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "7fff0062-9846-4b80-9021-bb59f9e08f26")
+			(uuid "97bab5d0-09b8-4559-8b44-1ed8aa65ecb3")
 		)
 		(fp_line
 			(start 4.2925 3.4955)
@@ -6642,7 +6642,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "12eed6b0-8000-4a26-9bf8-9ad3e8bb63ee")
+			(uuid "01575544-fdf5-4feb-a356-e2569c13fe20")
 		)
 		(fp_circle
 			(center 0 0)
@@ -6653,7 +6653,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "30ca8637-42af-4dea-8de6-5490a1604e85")
+			(uuid "ab047cfb-2dc3-4653-8136-8b64d442b116")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -0.32 -0.003 0)
@@ -6759,7 +6759,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/c900df24-1667-4260-83a5-bd4adbe69826")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 2.815 -3.425)
@@ -7151,7 +7151,7 @@
 			(net 2 "GND")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "639e9b19-074c-425f-9138-3b6fb944111d")
+			(uuid "89187ec0-1a19-46bc-b00b-850c1040dd1b")
 		)
 		(pad "1" smd roundrect
 			(at 4.855 -2.395 90)
@@ -7161,7 +7161,7 @@
 			(net 2 "GND")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "639e9b19-074c-425f-9138-3b6fb944111d")
+			(uuid "f9f2d387-db65-462f-adca-c2c08dcf29bd")
 		)
 		(pad "2" smd roundrect
 			(at -0.75 2.795 90)
@@ -7224,7 +7224,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "0"
 			(at 0 -1.68 0)
 			(layer "B.Fab")
 			(uuid "d55896e2-32e9-4b1e-a832-7154a732a898")
@@ -7265,7 +7265,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/4b052ea5-29c4-4317-8538-11390e585898")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -7469,7 +7469,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/dfe07517-8769-421f-8552-94a9eeb74b82")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -7673,7 +7673,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/17a21bd9-7aa1-4c69-9d94-21626b96e1ce")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -4.985 2.895)
@@ -8065,7 +8065,7 @@
 			(net 2 "GND")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "2ac393ef-7895-4f74-8e00-59709e144b80")
+			(uuid "05a435be-9a28-4b24-8158-a7b7c26ec64d")
 		)
 		(pad "1" smd roundrect
 			(at 4.855 -2.395 270)
@@ -8075,7 +8075,7 @@
 			(net 2 "GND")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "2ac393ef-7895-4f74-8e00-59709e144b80")
+			(uuid "2bf424aa-3741-4ca3-9730-52d2a9ee1741")
 		)
 		(pad "2" smd roundrect
 			(at -0.75 2.795 270)
@@ -8138,7 +8138,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "100p"
+		(property "Value" "INF"
 			(at 0 -1.68 90)
 			(layer "B.Fab")
 			(uuid "cb58ba94-fa54-451a-bfcc-15594fccf784")
@@ -8179,7 +8179,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/bdf14ecc-1757-470e-b0c1-f808657f7aec")
 		(sheetname "/")
-		(sheetfile "SUCHAI Interstage Dual Camera.kicad_sch")
+		(sheetfile "PC_Interstage.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
