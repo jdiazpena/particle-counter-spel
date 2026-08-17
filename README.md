@@ -5,10 +5,10 @@ Raspberry Pi acquisition/postprocessing software used to build and operate a
 prototype particle counter.
 
 > **Project status:** prototype and research use. The repository is not yet a
-> build-ready release. In particular, the analog-front-end schematic and PCB
-> contain different component values, and the plotting pipeline has a known
-> altitude-column mismatch. Review [Known issues](docs/known-issues.md) before
-> manufacturing hardware or processing measurements.
+> build-ready release. The plotting pipeline has a known altitude-column
+> mismatch, and reproducible build/test environments have not yet been
+> recorded. Review [Known issues](docs/known-issues.md) before manufacturing
+> hardware or processing measurements.
 
 ## System overview
 
@@ -44,7 +44,7 @@ docs/
   firmware.md                   Pico behavior, pin mapping, and I2C protocol
   raspberry-pi-software.md      Acquisition and postprocessing programs
   data-format.md                Measurement columns and derived products
-  known-issues.md               Revision conflicts and portability limitations
+  known-issues.md               Software, reproducibility, and portability limits
 ```
 
 ## Documentation
@@ -57,9 +57,8 @@ docs/
 
 ## Typical workflow
 
-1. Assemble and verify the analog front end and comparator/interface boards.
-   Do not manufacture the analog front end until its schematic/PCB revision
-   conflict is resolved.
+1. Review the schematics, run KiCad ERC/DRC, and assemble and verify the analog
+   front end and comparator/interface boards.
 2. Flash the Pico with
    [`pico_particle_counter.ino`](firmware/pico-particle-counter/pico_particle_counter.ino).
 3. Connect the Pico and MCP4728 to the Raspberry Pi I2C bus.

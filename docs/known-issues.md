@@ -3,27 +3,6 @@
 This document records problems observed in the current repository. It does not
 claim that the electrical design or scientific method has been fully reviewed.
 
-## Analog-front-end revision conflict
-
-The current `PC_Interstage.kicad_sch` and `PC_Interstage.kicad_pcb` contain the
-same references but disagree on the following values:
-
-| Reference | Schematic | PCB |
-|---|---:|---:|
-| C1 | 1 pF | 2.2 pF |
-| C3 | INF | 100 pF |
-| C6 | 0 | 10 µF |
-| C10 | 100 pF | 4.7 pF |
-| IC1 | OPA2354 | OPA1678IDR |
-| R3 | INF | 100 kΩ |
-| R4 | 3.3 kΩ | 5 kΩ |
-| R6 | 0 Ω | 10 Ω |
-| R7 | 15 kΩ | 0 Ω |
-| R8 | 10 kΩ | 10 GΩ |
-
-Do not generate a manufacturing BOM until the project owner identifies the
-tested/authoritative revision and synchronizes both files.
-
 ## Plotting altitude mismatch
 
 `pd_build_orbit_cache.py` produces `alt_km`, but `Help_Functions_PD.py`
@@ -87,11 +66,11 @@ The repository still needs:
 
 Before labeling a version build-ready:
 
-1. resolve the analog schematic/PCB conflict;
+1. update each PCB from its authoritative schematic;
 2. run and archive ERC/DRC results;
 3. build and bench-test both boards;
 4. pin and test the Pico and Raspberry Pi environments;
 5. resolve the altitude schema mismatch;
 6. run a complete acquisition-to-plot test with sample data;
-7. add BOM, calibration, expected results, and license; and
+7. add BOM, calibration, and expected results; and
 8. tag the exact tested hardware, firmware, and software revision together.

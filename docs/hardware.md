@@ -18,9 +18,10 @@ The current design contains:
 - 5 V power and ground connections; and
 - a routed two-layer, 1.6 mm PCB with 32 footprints.
 
-The PCB connector mapping below is extracted from the current
-`PC_Interstage.kicad_pcb` file. It is not a substitute for resolving the
-schematic/PCB revision conflict.
+The schematic is the authoritative source for component selection. The current
+schematic and PCB have matching component references and displayed values. The
+connector mapping below is extracted from the current
+`PC_Interstage.kicad_pcb` file.
 
 | Connector | Pin 1 | Pin 2 | Pin 3 | Pin 4 |
 |---|---|---|---|---|
@@ -28,8 +29,9 @@ schematic/PCB revision conflict.
 | J6 | GND | 5V0 | OUT | GND |
 | J2, J3, J4, J5 | GND | — | — | — |
 
-The schematic and PCB disagree on ten fitted values, including the op amp.
-See [Known issues](known-issues.md#analog-front-end-revision-conflict).
+Matching values do not by themselves establish electrical correctness or prove
+that the PCB has been updated from the latest schematic netlist. Run ERC, update
+the PCB from the schematic, and run DRC before manufacturing.
 
 ## Comparator and Pico interface
 
@@ -107,8 +109,8 @@ record the exact KiCad version used.
 
 Before ordering boards:
 
-1. Select and record the authoritative analog-front-end revision.
-2. Synchronize schematic symbols, values, and PCB footprints.
+1. Record the authoritative schematic and hardware revision.
+2. Update the PCB from the schematic and review all resulting changes.
 3. Confirm op-amp stability, photodiode polarity, feedback values, and supply
    range from component datasheets.
 4. Verify every connector pinout and mating-part orientation.
